@@ -11,8 +11,9 @@ Each topic has its own directory and each **hack** corresponds to its own progra
 * [challenges](./challenges)
 * [mathematics](./mathematics)
 * [systems](./systems) 
-<-- * [machine-learning](./machine_learning) -->
+
+<!--- * [machine-learning](./machine_learning) -->
 
 ## Inspiration
 
-I'm doing this because I love computers! There are so many things that I want to learn and code out that the only way I'll get to all of them is by staying organized and making sure I hack on a new small project every day!
+I'm doing this because I love computers! There are so many things that I want to learn and code out that the only way I'll get to all of them is by staying organized and making sure I hack on a new small project each and every day!

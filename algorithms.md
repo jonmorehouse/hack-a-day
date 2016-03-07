@@ -22,6 +22,7 @@
 * Beap
 * B-Heap
 * 2-3 Heap
+* monte-carlo tree search
 
 * Splay Tree
 * Red-Black Tree
@@ -73,6 +74,13 @@
 * Markov Chain
 * K-Means Clustering
 * Automata Theory
+* bloom filter
 * Mutex
 * Bit Addressing Specialization
 * Conway's Game of Life
+* probability theory
+* paxos algorithm
+* raft algorithm
+* finite state machine
+* turing machine
+* http://www.erogol.com/machine-learning-pathway
